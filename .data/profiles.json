@@ -1,0 +1,199 @@
+[
+  [
+    "kanthsreekanth946@gmail.com",
+    {
+      "fullName": "Sandu Mulinti Sreekanth",
+      "email": "kanthsreekanth946@gmail.com",
+      "passwordSalt": "9bb046f2cffa536b8c9cdd6c5f3ca640",
+      "passwordHash": "d4b471d4c57cf13362119e12175b6309a70837fe5ddf1d0a6cc68bfc6886a8eab52d3934514c6d14b887cad68cd1e7c8321faa94b51deb61069247b95b50725a",
+      "phone": "6302108308",
+      "phoneVerified": true,
+      "workStatus": "fresher",
+      "city": "Hyderabad",
+      "education": {
+        "qualification": "Graduation/Diploma",
+        "course": "B.Tech",
+        "courseType": "Full Time",
+        "specialization": "ECE",
+        "university": "Veltech University",
+        "startingYear": "2022",
+        "passingYear": "2026",
+        "gradingSystem": "Scale 10 Grading System",
+        "cgpa": "8",
+        "skills": [
+          "java",
+          "CSS"
+        ]
+      },
+      "profileCompleted": true,
+      "createdAt": "2026-10-25T19:42:58.768Z",
+      "updatedAt": "2026-10-26T04:47:24.209Z",
+      "applications": [
+        {
+          "id": "specialist-programmer",
+          "title": "Specialist Programmer (Trainee)",
+          "company": "Infosys",
+          "appliedAt": "2026-10-26T04:47:24.209Z"
+        }
+      ]
+    }
+  ],
+  [
+    "signup-04aa5b3b07c44d5fadf1e633f1baa5ef@example.test",
+    {
+      "fullName": "Signup Test",
+      "email": "signup-04aa5b3b07c44d5fadf1e633f1baa5ef@example.test",
+      "passwordSalt": "41a617c85cb5555dedf3c0ee279c7a45",
+      "passwordHash": "7f0da482ce474ba1b063f61c596896e15337f32b48315b6140915d30c6d3a38a89e239759c89182121d83004c0407359cf411b9c1f46dcd82e787e22b4d4c0b9",
+      "phone": "",
+      "phoneVerified": false,
+      "workStatus": "",
+      "city": "",
+      "education": {
+        "qualification": "",
+        "course": "",
+        "courseType": "",
+        "specialization": "",
+        "university": "",
+        "startingYear": "",
+        "passingYear": "",
+        "gradingSystem": "",
+        "cgpa": "",
+        "skills": []
+      },
+      "profileCompleted": false,
+      "createdAt": "2026-10-25T20:05:04.474Z"
+    }
+  ],
+  [
+    "kanthsreekanth947@gmail.com",
+    {
+      "fullName": "Sreekanth",
+      "email": "kanthsreekanth947@gmail.com",
+      "passwordSalt": "b730d90bcaa622960416bb9272c5e2e8",
+      "passwordHash": "37a914f614a8dc8be0fdb0ad45983749709cd5a11fcb689a5108fdb97a8964080778472082c1fe4afb2db3ebe654cd2224e5050b8f223e47daa5245cb41e8a1a",
+      "phone": "6302108308",
+      "phoneVerified": true,
+      "workStatus": "fresher",
+      "city": "hyd",
+      "education": {
+        "qualification": "Graduation/Diploma",
+        "course": "b.tech",
+        "courseType": "Full Time",
+        "specialization": "ece",
+        "university": "veltech",
+        "startingYear": "2022",
+        "passingYear": "2024",
+        "gradingSystem": "Scale 10 Grading System",
+        "cgpa": "8",
+        "skills": [
+          "96s5dfgdsxz",
+          "TypeScript"
+        ]
+      },
+      "profileCompleted": true,
+      "createdAt": "2026-10-25T20:06:44.355Z",
+      "updatedAt": "2026-10-25T20:07:56.624Z"
+    }
+  ],
+  [
+    "application-test-1792988374839@example.test",
+    {
+      "fullName": "Test Student",
+      "email": "application-test-1792988374839@example.test",
+      "passwordSalt": "e28bb10305c8fd1945ef62739469a97c",
+      "passwordHash": "2b9a5f673cdc5c2b108eb95c8f04b03cd4828cb365ea8f5e6e4a9ae236158c9103774cac0771855ec980990427c01537f65ac6c87f124567468256919369c761",
+      "phone": "",
+      "phoneVerified": false,
+      "workStatus": "",
+      "city": "",
+      "education": {
+        "qualification": "",
+        "course": "",
+        "courseType": "",
+        "specialization": "",
+        "university": "",
+        "startingYear": "",
+        "passingYear": "",
+        "gradingSystem": "",
+        "cgpa": "",
+        "skills": []
+      },
+      "profileCompleted": false,
+      "createdAt": "2026-10-26T04:19:34.995Z",
+      "applications": [
+        {
+          "id": "specialist-programmer",
+          "title": "Specialist Programmer (Trainee)",
+          "company": "Infosys",
+          "appliedAt": "2026-10-26T04:19:35.014Z"
+        }
+      ],
+      "updatedAt": "2026-10-26T04:19:35.014Z"
+    }
+  ],
+  [
+    "ui-application-1792988429272@example.test",
+    {
+      "fullName": "UI Test Student",
+      "email": "ui-application-1792988429272@example.test",
+      "passwordSalt": "939e42c3122e323af1b47ad07b772d55",
+      "passwordHash": "3a1a4d492eeb5dac08a0685895477a10fa55cd987836b112519cf7bb26c9a6519594acc068740e692227e5c68243bd180ac25361e30d5304035c12cbcf6d4aa9",
+      "phone": "+91 98765 43210",
+      "phoneVerified": true,
+      "workStatus": "fresher",
+      "city": "Hyderabad",
+      "education": {
+        "qualification": "Graduation/Diploma",
+        "course": "B.Tech",
+        "courseType": "Full Time",
+        "specialization": "Computer Science",
+        "university": "Test University",
+        "startingYear": "2022",
+        "passingYear": "2026",
+        "gradingSystem": "Scale 10 Grading System",
+        "cgpa": "",
+        "skills": []
+      },
+      "profileCompleted": true,
+      "createdAt": "2026-10-26T04:20:29.816Z",
+      "updatedAt": "2026-10-26T04:20:51.504Z",
+      "applications": [
+        {
+          "id": "specialist-programmer",
+          "title": "Specialist Programmer (Trainee)",
+          "company": "Infosys",
+          "appliedAt": "2026-10-26T04:20:51.504Z"
+        }
+      ]
+    }
+  ],
+  [
+    "duplicate-1792988623127@example.test",
+    {
+      "fullName": "Duplicate Test",
+      "email": "duplicate-1792988623127@example.test",
+      "passwordSalt": "a7d316be92615c9f5516a18c4e636b33",
+      "passwordHash": "69c21d918a3daff67a02def4abfd826b2b3b7f9826f69f1592be839342a232a3f6b33c14661595a70b7f9a265388bbee776a924b43b687f7f9938c6028dec782",
+      "phone": "",
+      "phoneVerified": false,
+      "workStatus": "",
+      "city": "",
+      "education": {
+        "qualification": "",
+        "course": "",
+        "courseType": "",
+        "specialization": "",
+        "university": "",
+        "startingYear": "",
+        "passingYear": "",
+        "gradingSystem": "",
+        "cgpa": "",
+        "skills": []
+      },
+      "applications": [],
+      "profileCompleted": false,
+      "createdAt": "2026-10-26T04:23:43.749Z"
+    }
+  ]
+]
