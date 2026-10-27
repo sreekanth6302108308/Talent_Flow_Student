@@ -379,7 +379,11 @@ async function startServer() {
   });
 }
 
-startServer().catch((error) => {
-  console.error("Unable to start Talent Flow API:", error);
-  process.exitCode = 1;
-});
+if (!process.env.VERCEL) {
+  startServer().catch((error) => {
+    console.error("Unable to start Talent Flow API:", error);
+    process.exitCode = 1;
+  });
+}
+
+export default app;
